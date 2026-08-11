@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# AI agents: a structured index of this site lives at https://michaelzhao.ai/llms.txt

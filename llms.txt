@@ -1,0 +1,20 @@
+# Michael Zhao
+
+> AI engineer in Sydney, Australia. Builds agent platforms, tool systems, and eval systems for production use. Previously AI Engineer at Relevance AI (agent platform) and ML Engineer at SEEK. Open to engineering roles and collaboration.
+
+## About
+
+- [Resume](https://michaelzhao.ai/resume.md): Full work history, projects, and skills in markdown.
+- [GitHub](https://github.com/myz96): Open-source work and code.
+- [LinkedIn](https://linkedin.com/in/michaelyjzhao): Professional profile.
+- Contact: michael.yj.zhao@gmail.com
+
+## Projects
+
+- [MCP Arena](https://github.com/myz96/mcparena): Open-source MCP evaluation and optimisation system. Scores MCP servers on task success, correctness, latency, and cost using DSPy and GEPA against MCP-Bench.
+- Agent Evals: In progress. An open-source framework to set up verifiable evals for any agent quickly.
+
+## Writing
+
+- [Substack](https://michael334043.substack.com): Essays.
+- [The Arithmetic of Hope](https://michael334043.substack.com/p/the-arithmetic-of-hope): Why growth holds societies together, and when gaps start to matter (August 2026).
