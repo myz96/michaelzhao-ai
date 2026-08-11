@@ -4,7 +4,6 @@
 
 ## About
 
-- [Resume](https://michaelzhao.ai/resume.md): Full work history, projects, and skills in markdown.
 - [GitHub](https://github.com/myz96): Open-source work and code.
 - [LinkedIn](https://linkedin.com/in/michaelyjzhao): Professional profile.
 - Contact: michael.yj.zhao@gmail.com
