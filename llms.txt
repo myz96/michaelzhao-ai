@@ -11,7 +11,8 @@
 ## Projects
 
 - [MCP Arena](https://github.com/myz96/mcparena): Open-source MCP evaluation and optimisation system. Scores MCP servers on task success, correctness, latency, and cost using DSPy and GEPA against MCP-Bench.
-- Agent Evals: In progress. An open-source framework to set up verifiable evals for any agent quickly.
+- [Momento](https://github.com/myz96/momento): A camera and audio capture device. ESP32-S3 firmware, a companion app, and a cloud backend. In progress.
+- [AI Bank Equity Researcher](https://github.com/myz96/ai-bank-equity-researcher): An agent for first-pass equity research on Australian banks. It attributes metric movements to drivers and cites the evidence. In progress.
 
 ## Writing
 
